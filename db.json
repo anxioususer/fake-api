@@ -1,0 +1,16 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "nome":"MTEC-PI Desenvolvimento de Sistemas",
+            "disciplinas":["PAM II", "WEB III", "BD"],
+            "carga-horaria": 3600
+        },
+        {
+            "id":2,
+            "nome":"MTEC-N Informática",
+            "disciplinas":["PAM II", "WEB III", "BD"],
+            "carga-horaria": 3600
+        }
+    ]
+}
