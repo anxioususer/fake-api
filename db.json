@@ -4,13 +4,25 @@
             "id":1,
             "nome":"MTEC-PI Desenvolvimento de Sistemas",
             "disciplinas":["PAM II", "WEB III", "BD"],
-            "carga-horaria": 3600
+            "carga-horaria": 1200
         },
         {
             "id":2,
             "nome":"MTEC-N Informática",
-            "disciplinas":["PAM II", "WEB III", "BD"],
-            "carga-horaria": 3600
+            "disciplinas":["DSI", "LLP", "GE"],
+            "carga-horaria": 1200
+        },
+        {
+            "id":3,
+            "nome":"MTEC-P Desenvolvimento de Sistemas",
+            "disciplinas":["AP", "DS", "FTI"],
+            "carga-horaria": 1200
+        }, 
+        {
+            "id":4,
+            "nome":"MTEC-N Informática Para Internet",
+            "disciplinas":["DW", "MM", "MI"],
+            "carga-horaria": 1200
         }
     ]
 }
